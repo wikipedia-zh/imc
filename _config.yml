@@ -4,3 +4,5 @@ plugins:
   - jekyll-theme-remote
 lang: zh-TW
 title: IMC
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
