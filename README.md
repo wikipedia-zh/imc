@@ -32,6 +32,7 @@
 ---
 持權限人員守則
 
+---
 
 Documentation Status: [![pages-build-deployment](https://github.com/wikipedia-zh/imc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/wikipedia-zh/imc/actions/workflows/pages/pages-build-deployment)
 
