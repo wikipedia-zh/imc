@@ -1,13 +1,11 @@
 ---
 layout: default
-permalink: /provisions/bgr
 parent: 通則
 nav_order: 2
+permalink: /provisions/bgr
 ---
 
 # 行為通則
-
-{: .no_toc }
 
 <details close markdown="block">
   <summary>
