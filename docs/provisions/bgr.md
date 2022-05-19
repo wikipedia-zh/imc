@@ -1,4 +1,24 @@
+---
+layout: default
+permalink: /provisions/bgr
+parent: 通則
+nav_order: 2
+---
+
 # 行為通則
+
+{: .no_toc }
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 
 詳題
 > 本通則旨在規管用戶的不當行為，並就相關事宜訂定條文。
