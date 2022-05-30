@@ -1,8 +1,3 @@
----
-tags: 群組及頻道通則
-title: 第一部　正式群組
----
-
 | 正式群組名稱　　 | 正式群組連結 |
 | ------------- | ---------- |
 | ACG群　　　　　 | [@wikipedia_zh_acg_n](https://t.me/wikipedia_zh_acg_n) |
