@@ -20,5 +20,15 @@
 | 科學及科技群　　 | [@wikipedia_zh_science_and_tech](https://t.me/wikipedia_zh_science_and_tech) |
 | 運動群　　　　　 | [@wikipedia_zh_sports](https://t.me/wikipedia_zh_sports) |
 | 翻譯群　　　　　 | [@wikipedia_zh_translation](https://t.me/wikipedia_zh_translation) |
+| 申訴群　　　　　　　 | [@wikipedia_zh_appeal_n_meta](https://t.me/wikipedia_zh_appeal_n_meta) |
+| 申訴群內庭　　　　　 | *非公開群組*                                                                |
+| 群管群　　　　　　　 | *非公開群組*                                                                |
+| 證據存檔群　　　　　 | [@wikipedia_zh_evidential_archive](https://t.me/wikipedia_zh_evidential_archive) |
+| 禁制列表頻道　　　　 | *非公開頻道*                                                            |
+| 政治群管群　　　　　 | *非公開群組*                                                                |
+| ECBot日誌頻道　　　 | *非公開頻道*                                                                |
+| 原始群（一）　　　　 | *非公開群組*                                                                |
+| 原始群（二）　　　　 | *非公開群組*                                                                |
+| 中文維基百科廣播頻道 | [@zhwiki_bulletin](https://t.me/zhwiki_bulletin)                            |
 
 [^first]:在向 [@wikipedia_zh_politics_join_bot](https://t.me/wikipedia_zh_politics_join_bot) 提交入群問答並通過申請程序後，可獲得一次性群組連結。
