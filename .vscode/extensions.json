@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-edgedevtools.vscode-edge-devtools",
+        "wingrunr21.vscode-ruby",
+        "rebornix.ruby",
+        "shd101wyy.markdown-preview-enhanced",
+        "DavidAnson.vscode-markdownlint"
+    ]
+}
