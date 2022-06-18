@@ -5,4 +5,4 @@ has_children: true
 permalink: /principles/
 ---
 
-# 總則
+# 基本規則
