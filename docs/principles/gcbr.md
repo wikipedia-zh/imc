@@ -9,7 +9,7 @@ permalink: /principles/gcbr
 
 <details close markdown="block">
   <summary>
-  Table of contents
+    Table of contents
   </summary>
   {: .text-delta }
 - TOC
@@ -17,6 +17,7 @@ permalink: /principles/gcbr
 </details>
 
 ---
+
 詳題
 > 本基本規則旨在綜合通用於所有群組的基本規定，並訂立通用於所有群組的基本條文。
 
