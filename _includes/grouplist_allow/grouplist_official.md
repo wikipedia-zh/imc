@@ -1,4 +1,4 @@
-## 第一部 正式群組的名單
+## 第A部 正式群組的名單
 
 | 正式群組名稱   | 正式群組連結 |
 | -------------  | ---------- |
@@ -22,7 +22,8 @@
 | 科學及科技群   | [@wikipedia_zh_science_and_tech](https://t.me/wikipedia_zh_science_and_tech) |
 | 運動群         | [@wikipedia_zh_sports](https://t.me/wikipedia_zh_sports) |
 | 翻譯群         | [@wikipedia_zh_translation](https://t.me/wikipedia_zh_translation) |
-| 申訴群         | [@wikipedia_zh_appeal_n_meta](https://t.me/wikipedia_zh_appeal_n_meta) |
+| 元群組         | [@wikipedia_zh_meta](https://t.me/wikipedia_zh_meta) |
+| 申訴群         | [@wikipedia_zh_arbitration](https://t.me/wikipedia_zh_arbitration) |
 | 申訴群內庭     | *非公開群組* |
 | 群管群         | *非公開群組* |
 | 證據存檔群     | [@wikipedia_zh_evidential_archive](https://t.me/wikipedia_zh_evidential_archive) |
