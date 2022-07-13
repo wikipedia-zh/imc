@@ -21,7 +21,6 @@ permalink: /
   - 色情訊息豁免附則
   - 行為 (Telegram) 附則
 - [緊急情況通則](provisions/egr.html)
-  - 緊急情況 (主群) (安倍晉三槍擊事件) 特殊附則
 <!-- - [群組及頻道通則](provisions/gacgr.html) -->
 <!-- - [權限通則](provisions/agr.html) -->
 <!-- - [仲裁程序通則](provisions/apgr.html) -->

@@ -16,4 +16,4 @@ Please list in a reverse chronological order.
 請以逆時間順序羅列。
 -->
 
-- [緊急情況 (安倍晉三槍擊事件) 特殊附則](/provisions/egr/20220708.html)
+- ~~[緊急情況 (安倍晉三槍擊事件) 特殊附則](/provisions/egr/20220708.html)~~
