@@ -10,30 +10,32 @@ permalink: /
 
 ## 基本規則
 
-- [通用規則基本規則](principles/gcbr.html)
-<!-- - 條文釋義基本規則 -->
-<!-- - [成文規則標準基本規則](principles/sebr.md) -->
+- [通用規則基本規則](principles/gcbr)
+<!-- - [釋義基本規則](principles/ibr) -->
+<!-- - [成文規則標準基本規則](principles/sebr) -->
 
 ## 通則
 
-- [行為通則](provisions/bgr.html)
+<!-- - 機器人及指令通則 -->
+- [行為通則](provisions/bgr)
   - 色情訊息豁免附則
   - 行為 (Telegram) 附則
-<!-- - [群組及頻道通則](provisions/gacgr.md) -->
-- [緊急情況通則](provisions/egr.html)
-<!-- - 權限通則 -->
-<!-- - 爭議解決通則 -->
-<!-- - 行政申訴通則 -->
-<!-- - 審裁程序通則 -->
-<!-- - 上訴通則 -->
-<!-- - 證據通則 -->
-<!-- - 處罰及救濟通則 -->
-<!-- - 機器人及指令通則 -->
+- [緊急情況通則](provisions/egr)
+<!-- - [群組及頻道通則](provisions/gacgr) -->
+<!-- - [權限通則](provisions/agr) -->
+<!-- - [仲裁程序通則](provisions/apgr) -->
+<!-- - [監督程序通則]() -->
 
 ## 準則
 
-<!-- - 查證制度準則 -->
-<!-- - 審裁群組準則 -->
+<!-- - [仲裁群準則](regulations/rules_of_arbitration_group) -->
+<!-- 
+- [自動確認群準則](regulations/rules_of_autoconfirmed_group)
+- [遊戲群準則](regulations/rules_of_game_group)
+- [幫助群準則](regulations/rules_of_help_group)
+- [主群準則](regulations/rules_of_main_group) 
+-->
+<!-- - [元群組準則](regulations/rules_of_meta_group) -->
 <!-- - 自動確認群準則 -->
 
 ## 守則
