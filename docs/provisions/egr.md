@@ -1,7 +1,8 @@
 ---
 layout: default
 parent: 通則
-nav_order: 3
+has_children: true
+nav_order: 2
 permalink: /provisions/egr
 ---
 
@@ -80,4 +81,4 @@ permalink: /provisions/egr
 
 ---
 
-{% include reglist_special.md %}
+{% include appendix_egr.md %}
