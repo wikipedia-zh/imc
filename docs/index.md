@@ -28,15 +28,12 @@ permalink: /
 
 ## 準則
 
-<!-- - [仲裁群準則](regulations/rules_of_arbitration_group) -->
-<!-- 
-- [自動確認群準則](regulations/rules_of_autoconfirmed_group)
-- [遊戲群準則](regulations/rules_of_game_group)
-- [幫助群準則](regulations/rules_of_help_group)
-- [主群準則](regulations/rules_of_main_group) 
--->
-<!-- - [元群組準則](regulations/rules_of_meta_group) -->
-<!-- - 自動確認群準則 -->
+- [主群準則](rules/rules_of_main_group)
+- [幫助群準則](rules/rules_of_help_group)
+- [自動確認群準則](rules/rules_of_autoconfirmed_group)
+- [遊戲群準則](rules/rules_of_game_group)
+<!-- - [仲裁群準則](rules/rules_of_arbitration_group) -->
+<!-- - [元群組準則](rules/rules_of_meta_group) -->
 
 ## 守則
 
