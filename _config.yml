@@ -6,3 +6,19 @@ lang: zh-TW
 title: IMC
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
+# Aux link
+
+aux_links:
+  "IMC on GitHub":
+    - "//github.com/wikipedia-zh/imc"
+
+# Footer
+
+# Edit this page on GitHub
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: 於 GitHub 編輯此頁
+gh_edit_repository: https://github.com/wikipedia-zh/imc # the github URL for your repo
+gh_edit_branch: main # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: edit # "tree" or "edit" if you want the user to jump into the editor immediately
