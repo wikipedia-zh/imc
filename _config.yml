@@ -10,8 +10,8 @@ color_scheme: dark
 # Aux link
 
 aux_links:
-  "IMC on GitHub":
-    - "//github.com/wikipedia-zh/imc"
+  IMC on GitHub:
+    - https://github.com/wikipedia-zh/imc
 
 # Footer
 
