@@ -9,7 +9,7 @@
 | 電腦科學群     | [@wikipedia_zh_cs](https://t.me/wikipedia_zh_cs) |
 | 娛樂及藝術群   | [@wikipedia_zh_entmt_and_art](https://t.me/wikipedia_zh_entmt_and_art) |
 | 飲食群         | [@wikipedia_zh_food_and_drink](https://t.me/wikipedia_zh_food_and_drink) |
-| 遊戲群         | [@wikipedia_zh_game](https://t.me/wikipedia_zh_game) |
+| 遊戲群        | [@wikipedia_zh_game](https://t.me/wikipedia_zh_game) |
 | 地理及交通群   | [@wikipedia_zh_geo_and_transpt](https://t.me/wikipedia_zh_geo_and_transpt) |
 | 新手幫助群     | [@wikipedia_zh_help](https://t.me/wikipedia_zh_help) |
 | 人文學科及社會群 | [@wikipedia_zh_humanities](https://t.me/wikipedia_zh_humanities) |

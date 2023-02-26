@@ -1,4 +1,23 @@
-# 附則二 行為 (Telegram) 附則
+---
+layout: default
+grand_parent: 通則
+parent: 行為通則
+nav_order: 2
+permalink: /regulations/bgr/telegram
+---
+
+# 行為 (Telegram) 附則
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 
 #### 1. 附屬規則
 

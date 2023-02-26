@@ -1,8 +1,27 @@
-# 附則一 色情訊息豁免附則
+---
+layout: default
+grand_parent: 通則
+parent: 行為通則
+nav_order: 1
+permalink: /regulations/bgr/pronography
+---
+
+# 色情訊息豁免附則
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 
 #### 1. 附屬規則
 
-1. 本附則為《行為通則》的附屬規則。
+- 本附則為《行為通則》的附屬規則。
 
 #### 2. 適用範圍
 

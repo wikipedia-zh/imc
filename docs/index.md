@@ -16,15 +16,16 @@ permalink: /
 
 ## 通則
 
-<!-- - 機器人及指令通則 -->
-- [行為通則](provisions/bgr)
-  - 色情訊息豁免附則
-  - 行為 (Telegram) 附則
-- [緊急情況通則](provisions/egr)
-<!-- - [群組及頻道通則](provisions/gacgr) -->
-<!-- - [權限通則](provisions/agr) -->
-<!-- - [仲裁程序通則](provisions/apgr) -->
-<!-- - [監督程序通則]() -->
+- [行為通則](regulations/bgr)
+  - [色情訊息豁免附則](regulations/bgr/pronography)
+  - [行為 (Telegram) 附則](regulations/bgr/telegram)
+- [緊急情況通則](regulations/egr)
+- [管理處理通則](regulations/mgr)
+<!-- - [群組及頻道通則](regulations/gcgr) -->
+<!-- - [權限通則](regulations/agr) -->
+<!-- - [仲裁程序通則](regulations/apgr) -->
+<!-- - [監督程序通則](regulations/spgr) -->
+<!-- - [機器人及指令通則](regulations/bcgr) -->
 
 ## 準則
 

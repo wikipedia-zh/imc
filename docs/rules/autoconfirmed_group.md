@@ -16,6 +16,8 @@ permalink: /rules/rules_of_autoconfirmed_group
 {:toc}
 </details>
 
+---
+
 詳題
 > 本準則旨在設立自動確認群，訂立自動確認群的入群適用規則，訂立自動確認群的用戶名認證規則，規管只適用於自動確認群的違規行為；並就相關事宜訂定條文。
 
