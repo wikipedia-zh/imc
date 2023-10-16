@@ -19,23 +19,23 @@ permalink: /
 - [行為通則](regulations/bgr)
   - [色情訊息豁免附則](regulations/bgr/pronography)
   - [行為 (Telegram) 附則](regulations/bgr/telegram)
-- [緊急情況通則](regulations/egr)
 - [管理處理通則](regulations/mgr)
-<!-- - [群組及頻道通則](regulations/gcgr) -->
-<!-- - [權限通則](regulations/agr) -->
+- [緊急情況通則](regulations/egr)
+- [群組及頻道通則](regulations/gacgr)
+<!-- - [管理人員通則](regulations/agr) -->
 <!-- - [仲裁程序通則](regulations/apgr) -->
-<!-- - [監督程序通則](regulations/spgr) -->
 <!-- - [機器人及指令通則](regulations/bcgr) -->
 
 ## 準則
 
+<!-- - [仲裁群準則](rules/rules_of_arbitration_group) -->
+<!-- - [元群組準則](rules/rules_of_meta_group) -->
 - [主群準則](rules/rules_of_main_group)
 - [幫助群準則](rules/rules_of_help_group)
 - [自動確認群準則](rules/rules_of_autoconfirmed_group)
 - [遊戲群準則](rules/rules_of_game_group)
-<!-- - [仲裁群準則](rules/rules_of_arbitration_group) -->
-<!-- - [元群組準則](rules/rules_of_meta_group) -->
+<!-- - [政治群準則](rules/rules_of_politics_group) -->
 
 ## 守則
 
-<!-- 持權限人員守則 -->
+<!-- 管理人員守則 -->
