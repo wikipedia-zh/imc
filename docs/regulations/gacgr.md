@@ -94,8 +94,8 @@ permalink: /provisions/gacgr
 ================
 【通用規則】
 
-本群適用通用規則：https://wikipedia-zh.github.io/imc/ 
-另請務必仔細閱讀行為通則，見 https://wikipedia-zh.github.io/imc/regulations/bgr 。多次或嚴重違反前述規則，可能會招致禁言或封禁，敬請留意。
+本群適用之通用規則：https://wikipedia-zh.github.io/imc/ 
+另請務必仔細閱讀《行為通則》，見 https://wikipedia-zh.github.io/imc/regulations/bgr 。多次或嚴重違反前述規則，可能會招致禁言或封禁，敬請留意。
 
 ----------------
 【群組規則】
@@ -107,6 +107,8 @@ permalink: /provisions/gacgr
 【雜項】
 
 【連結/訊息】
+
+#pin #置頂 #置顶
 ```
 
 ## 第三部 正式群組的設立程序
