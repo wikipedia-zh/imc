@@ -1,41 +1,20 @@
 ---
 layout: default
-# title: 目錄
+# title: 序言
 nav_order: 1
-description: 目錄，展示的首頁
+description: 序言
 permalink: /
 ---
 
-# 即時通訊規則
+# 即時通訊規則——序言
 
-## 基本規則
+- 入群請先閱讀《[通用規則基本規則](principles/gcbr)》，以瞭解中文維基百科交流群組的目的、群組對於群員的預期、群員發言時的責任與態度。並且請仔細閱讀《[行為通則](regulations/bgr)》，以瞭解所有群組的行為規範。除此之外，應閱讀群組的準則，以瞭解群組的特殊規範：
 
-- [通用規則基本規則](principles/gcbr)
-<!-- - [釋義基本規則](principles/ibr) -->
-<!-- - [成文規則標準基本規則](principles/sebr) -->
+  - 《[主群準則](rules/rules_of_main_group)》
+  - 《[幫助群準則](rules/rules_of_help_group)》
+  - 《[自動確認群準則](rules/rules_of_autoconfirmed_group)》
+  - 《[遊戲群準則](rules/rules_of_game_group)》
 
-## 通則
-
-- [行為通則](regulations/bgr)
-  - [色情訊息豁免附則](regulations/bgr/pronography)
-  - [行為 (Telegram) 附則](regulations/bgr/telegram)
-- [管理處理通則](regulations/mgr)
-- [緊急情況通則](regulations/egr)
-- [群組及頻道通則](regulations/gacgr)
-<!-- - [管理人員通則](regulations/agr) -->
-<!-- - [仲裁程序通則](regulations/apgr) -->
-<!-- - [機器人及指令通則](regulations/bcgr) -->
-
-## 準則
-
-<!-- - [仲裁群準則](rules/rules_of_arbitration_group) -->
-<!-- - [元群組準則](rules/rules_of_meta_group) -->
-- [主群準則](rules/rules_of_main_group)
-- [幫助群準則](rules/rules_of_help_group)
-- [自動確認群準則](rules/rules_of_autoconfirmed_group)
-- [遊戲群準則](rules/rules_of_game_group)
-<!-- - [政治群準則](rules/rules_of_politics_group) -->
-
-## 守則
-
-<!-- 管理人員守則 -->
+- 群員欲另建分群，請先閱讀《[群組及頻道通則](regulations/gcgr)》，任何違反該通則的群組將會被列入黑名單，組織者、實際管理者、關聯者亦皆會被全域永久封禁。
+- 群組管理人員的管理行為受《[管理處理通則](regulations/mgr)》約束，群員若對管理人員的管理行為有任何疑問，請先閱讀該通則，並在申訴群或元群組提出疑問。
+- 在緊急情況時，群組管理人員可根據《[緊急處理通則](regulations/egr)》訂立臨時特殊附則，並藉此作出處理。群員若對此類事宜有任何疑問，請先閱讀該通則，並在申訴群或元群組提出疑問。
